@@ -1,0 +1,27 @@
+{
+  "name": "curso-de-next.js_platzi_course",
+  "version": "0.0.1",
+  "description": "Curso de Next.js(curso de platzi)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerardoDev25/Curso-de-Next.js_platzi_course.git"
+  },
+  "keywords": [],
+  "author": "Gerardo Miranda <gerardodev25@gmail.com> (https://github.com/GerardoDev25)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GerardoDev25/Curso-de-Next.js_platzi_course/issues"
+  },
+  "homepage": "https://github.com/GerardoDev25/Curso-de-Next.js_platzi_course#readme",
+  "dependencies": {
+    "next": "9.4",
+    "react": "16.13",
+    "react-dom": "16.13"
+  }
+}
